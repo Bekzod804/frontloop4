@@ -1,0 +1,7 @@
+*{padding: 0;margin: 0;box-sizing: border-box;}
+#icons{background-color: #888; width: 100%; }
+.box{background-image: url("file:///D:/HTML/UCDownloads/download(53)"); background-position: center; height: 210px; background-repeat: no-repeat;
+background-size: cover; padding-top: 65px; margin-top: 0; background-attachment: fixed;  background-position: center center; 
+position: relative; margin-top: -48px}
+.dark-overlay{position: absolute; height:100%; width: 100%; background-color: rgba(0, 0, 0,.6); top: 0;}
+#what{position: relative;background-image: url("file:///D:/HTML/UCDownloads/download(56)"); height: 200px; background-position: center;}
